@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ]  **I. Hands-On Learning**: Does the plan prioritize practical examples and interactive elements?
+- [ ]  **II. Clarity and Accessibility**: Does the plan ensure clear explanations and visual aids for the target audience?
+- [ ]  **III. Docusaurus-First Design**: Does the plan leverage Docusaurus features for documentation structure and user experience?
+- [ ]  **IV. Community-Driven Iteration**: Does the plan include mechanisms for community contributions and feedback?
+- [ ]  **V. Brand Voice**: Does the plan align with an encouraging, knowledgeable, and approachable tone?
 
 ## Project Structure
 
