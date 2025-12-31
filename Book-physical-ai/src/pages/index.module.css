@@ -1,0 +1,57 @@
+/**
+ * Responsive Homepage Styles for Physical AI Textbook
+ * CSS modules are scoped locally to prevent conflicts
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* ========================================
+   RESPONSIVE HOMEPAGE STYLES
+   ======================================== */
+
+/* Tablet and smaller desktops */
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 3rem 1.5rem;
+  }
+
+  /* Hero section adjustments are handled inline */
+}
+
+/* Mobile devices */
+@media screen and (max-width: 768px) {
+  .heroBanner {
+    padding: 2rem 1rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .buttons a {
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+  }
+}
+
+/* Small mobile devices */
+@media screen and (max-width: 480px) {
+  .heroBanner {
+    padding: 1.5rem 0.75rem;
+  }
+}
