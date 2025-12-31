@@ -103,8 +103,8 @@ export default function Home() {
               and how robots think and move intelligently.
             </p>
             <div style={{ textAlign: "center" }}>
-              <Link className="button button--primary" to="/docs/advanced-ai-control/module-5-advanced-ai">
-                🚁 Open Module
+              <Link className="button button--primary" to="/docs/intro">
+                🚁 Coming Soon
               </Link>
             </div>
           </div>
